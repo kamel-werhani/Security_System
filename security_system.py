@@ -10,9 +10,9 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
 # Set up the parameters of the message
-password = "pvdlzkpximyaijhm"
-from_email = "sskw5651@gmail.com"  # must match the email used to generate the password
-to_email = "werhanikamel51@gmail.com"  # receiver email
+password = ""
+from_email = ""  # must match the email used to generate the password
+to_email = ""  # receiver email
 
 # Server creation and authentication
 server = smtplib.SMTP('smtp.gmail.com: 587')
