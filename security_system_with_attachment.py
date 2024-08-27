@@ -23,9 +23,9 @@ ZONE_POLYGON = np.array([
 # Email settings
 smtp_port = 587
 smtp_server = "smtp.gmail.com"
-from_email = "sskw5651@gmail.com"
-email_list = ["sskw5651@gmail.com", "werhanikamel51@gmail.com"]
-password = "pvdlzkpximyaijhm" # Placeholder, should be securely referenced
+from_email = ""
+email_list = ["", ""]
+password = "" # Placeholder, should be securely referenced
 subject = "Security Alert!!"
 
 def send_emails_async(email_list, from_email, object_detected, image_data):
