@@ -5,6 +5,7 @@ The Security System Project utilizing YOLOv8 integrates advanced computer vision
 
 ![screen01](https://github.com/user-attachments/assets/77899e8d-84b4-4171-b6cd-c08b55ae12e5)
 
+
 ## Deployment
 
 Install requirements
