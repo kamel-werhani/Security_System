@@ -1,4 +1,3 @@
-
 # Security_System
 
 The Security System Project utilizing YOLOv8 integrates advanced computer vision capabilities to enhance security measures. This system detect person after send a message through email containing number of persons detected and screenshot of the detected person.
